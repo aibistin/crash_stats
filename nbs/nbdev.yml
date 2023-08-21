@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "crash_stats"
+  site-url: "https://aibistin.github.io/crash_stats"
+  description: "Analyzing NYC Traffic Collisions with Jupyter Notebook"
+  repo-branch: master
+  repo-url: "https://github.com/aibistin/crash_stats"
